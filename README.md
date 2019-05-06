@@ -11,4 +11,4 @@ and pick CSGO.cfg as syntax under View
 
 ------
 
-* With inspiration from /u/kamikaze_algazi and @Janzzze
+* With inspiration from  [/u/kamikaze_algazi](https://www.reddit.com/r/GlobalOffensive/comments/bl9qz9/csgo_config_file_syntax_highlighting/)  and [@Janzzze](https://github.com/Janzzze/csgo-sublime-syntax/) 

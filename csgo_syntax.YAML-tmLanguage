@@ -9,7 +9,7 @@ patterns:
   - name: entity.name.function.cfg
     match: (\b|^)(?i)(bind|alias|buy|bindtoggle|toggle|exec|unbindall|unbind|incrementvar|wait|echo)\b
 
-  - name: comment.line.double-slash.cfg
+  - name: comment.cfg
     match: (//).*$\n?
 
   - name: keyword.operator.cfg
@@ -18,8 +18,8 @@ patterns:
   - name: variable.parameter.cfg
     match: (\b|^)(?i)(weapon_)?(galil|galilar|ak47|scout|sg552|awp|g3sg1|famas|m4a1|m4a1_silencer|aug|sg556|scar20|ssg08|glock|deagle|elite|fn57|hkp2000|usp_silencer|p250|tec9|taser|xm1014|mag7|mac10|ump45|p90|bizon|mp7|mp9|m249|negev|nova|vest|vesthelm|defuser|flashbang|hegrenade|smokegrenade|molotov|incgrenade|decoy|mp5sd|knife|cz75a|fiveseven|c4)\b
 
-  - name: constant.language.cfg
-    match: (\b|^)(?i)(tab|enter|escape|space|backspace|uparrow|downarrow|leftarrow|rightarrow|alt|ctrl|shift|ins|del|pgdn|pgup|home|end|kp_home|kp_uparrow|kp_pgup|kp_leftarrow|kp_5|kp_rightarrow|kp_end|kp_downarrow|kp_pgdn|kp_enter|kp_ins|kp_del|kp_slash|kp_multiply|kp_minus|kp_plus|capslock|mwheeldown|mwheelup|mouse1|mouse2|mouse3|mouse4|mouse5|pause|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|f1|f2|f3|f4|f5|f6|f7|f8|f9|f10|f11|f12|-|=|[|]|\|semicolon|'|,|.|/|rshift|ralt|rctrl)\b
+  - name: storage.type.cfg
+    match: (\b|^)(?i)(tab|enter|escape|space|backspace|uparrow|downarrow|leftarrow|rightarrow|alt|ctrl|shift|ins|del|pgdn|pgup|home|end|kp_home|kp_uparrow|kp_pgup|kp_leftarrow|kp_5|kp_rightarrow|kp_end|kp_downarrow|kp_pgdn|kp_enter|kp_ins|kp_del|kp_slash|kp_multiply|kp_minus|kp_plus|capslock|mwheeldown|mwheelup|mouse1|mouse2|mouse3|mouse4|mouse5|pause|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|f1|f2|f3|f4|f5|f6|f7|f8|f9|f10|f11|f12|-|=|[|]|\|semicolon|'|,|\.|\/|rshift|ralt|rctrl)\b
 
-  - name: constant.numeric.cfg
+  - name: constant.language.cfg
     match: (\b|^)(?i)(\d*\.?\d*)\b

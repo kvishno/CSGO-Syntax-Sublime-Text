@@ -7,7 +7,7 @@ and pick CSGO.cfg as syntax under View
 
 NB: not finished at all...
 
-![Image of highlighting](https://raw.githubusercontent.com/kvishno/CSGO-Syntax-Sublime-Text/master/images/csgosyntaximage.png)
+![Image of highlighting](https://raw.githubusercontent.com/kvishno/CSGO-Syntax-Sublime-Text/master/images/csgosyntaximage1.png)
 
 
 

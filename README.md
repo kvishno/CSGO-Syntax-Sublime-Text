@@ -3,7 +3,7 @@ CSGO Syntax highlighting for Sublime Text
 
 * Place files in \..\Sublime Text\Data\Packages\User
 and pick CSGO.cfg as syntax under View
-* or place csgo_syntax.YAML-tmLanguage file in \..\Sublime Text\Data\Packages\User and press F7 to build
+* or place csgo_syntax.YAML-tmLanguage file in \..\Sublime Text\Data\Packages\User , open file and press F7 to build
 
 ![Image of highlighting](https://raw.githubusercontent.com/kvishno/CSGO-Syntax-Sublime-Text/master/images/csgosyntaximage.png)
 

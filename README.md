@@ -4,7 +4,7 @@ CSGO Syntax highlighting for Sublime Text 3
 ## About
 If you find any problems with the package or got any suggestions, please open an issue [here](https://github.com/kvishno/CSGO-Syntax-Sublime-Text/issues) (contributions are also more than welcome). Some Cvars might be missing, as they are updated constantly. 
 
-This package will also have basic compatibility with other source based games, as many Cvars are universal. It won't be perfect as some Cvars are specific for the given game, but it will fulfill most needs.
+This package will also have basic compatibility with other source based games, as many Cvars are universal. It won't be perfect as some Cvars/weapons are game specific, but it will fulfill most needs.
 
 ## Installation
 * Place `csgo_syntax.*` files in `\..\Sublime Text 3\Data\Packages\User` and pick CSGO.cfg as syntax under View

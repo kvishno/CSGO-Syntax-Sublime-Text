@@ -13,7 +13,7 @@ This package will also have basic compatibility with other source based games, a
 ## To-do
 * Completions Files
 * Other common source game compatibility (TF2, CSS, Dota2, etc.)
-* Clean-up in Cvars
+* Clean-up in Cvars (more regex, dupes in functions and Cvars)
 * Improved matching and highlighting
 
 ## Example highlighting in a config

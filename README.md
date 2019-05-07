@@ -7,7 +7,7 @@ If you find any problems with the package or got any suggestions, please open an
 This package will also have basic compatibility with other source based games, as many Cvars are universal. It won't be perfect as some Cvars are specific for the given game, but it will fulfill most needs.
 
 ## Installation
-* Place files in `\..\Sublime Text 3\Data\Packages\User` and pick CSGO.cfg as syntax under View
+* Place `csgo_syntax.*` files in `\..\Sublime Text 3\Data\Packages\User` and pick CSGO.cfg as syntax under View
 * Alternatively install [PackageDev](https://github.com/SublimeText/PackageDev), place the [csgo_syntax.YAML-tmLanguage](https://raw.githubusercontent.com/kvishno/CSGO-Syntax-Sublime-Text/master/csgo_syntax.YAML-tmLanguage) file in `\..\Sublime Text 3\Data\Packages\User`, then open the file in Sublime and press F7 to build 
 
 ## Example highlighting in a config

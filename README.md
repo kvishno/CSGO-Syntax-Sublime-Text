@@ -1,5 +1,5 @@
 # CSGO-Syntax-Sublime-Text
-CSGO Syntax highlighting for Sublime Text 3
+CS:GO Syntax highlighting for Sublime Text 3
 
 ## About
 If you find any problems with the package or got any suggestions, please open an issue [here](https://github.com/kvishno/CSGO-Syntax-Sublime-Text/issues) (contributions are also more than welcome). Some Cvars might be missing, as they are updated constantly. 
@@ -12,7 +12,7 @@ This package will also have basic compatibility with other source based games, a
 
 ## To-do
 * Completions Files
-* Other common source game compatibility (TF2, CSS, Dota2, etc.)
+* Other common source game compatibility (TF2, CS:S, Dota 2, etc.)
 * Clean-up in Cvars (more regex, dupes in functions and Cvars)
 * Improved matching and highlighting
 
